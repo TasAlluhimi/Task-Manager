@@ -21,7 +21,7 @@ function AddTaskWindow({ modal, handleModal }) {
 
   return (
     <>
-      <Modal isOpen={modal} onOpenChange={onOpenChange} onClose={handleModal}>
+      <Modal isOpen={modal} onOpenChange={onOpenChange} onClose={handleModal} placement="top-center">
         <ModalContent>
           {(onClose) => (
             <>
