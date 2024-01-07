@@ -206,7 +206,7 @@ function Nav() {
                     {/* second  */}
 
                  <div>
-                 <Input type="search" label="Search" className='w-[40vw]' />
+                 <Input type="search" label="Search" className='w-[40vw] max-sm:w-36 max-sm:h-10' />
 
                  </div>
 
