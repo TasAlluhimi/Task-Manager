@@ -6,7 +6,6 @@ function Nav() {
 
     const navigate = useNavigate()
     const [isSidebarOpen, setIsSidebarOpen] = React.useState(false);
-    const [isLogged, setIsLogged] = React.useState(localStorage.getItem('isLogged'))
       
     const toggleSidebar = () => {
     setIsSidebarOpen((prev) => !prev);
@@ -193,10 +192,6 @@ function Nav() {
                         <img src="https://cdn-icons-png.flaticon.com/128/10449/10449599.png" 
                         alt="" 
                         className='w-20'/>
-
-                        {/* <p
-                        className=' text-xl font-bold'
-                        >Task Manager</p> */}
                     </div>
                     </Link>
                     
@@ -226,7 +221,6 @@ function Nav() {
               </div>
             </div>
             </div>
-            {/* <p className='text-white'>hi</p> */}
             </div>
     </>
   )
