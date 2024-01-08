@@ -168,31 +168,31 @@ class="group relative cursor-pointer overflow-hidden bg-gradient-to-b from-[#52C
     <div className='2xl:hidden font-bold 2xl:text-6xl text-xl'>Project Timeline</div>
 <div class="timeline">
   <div class="timeContainer right">
-    <div class="content shadow-xl">
+    <div class="content shadow-xl max-sm:w-40">
       <div className='font-bold text-lg'>2006</div>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
   <div class="timeContainer left">
-    <div class="content shadow-xl">
+    <div class="content shadow-xl max-sm:w-40">
       <div className='font-bold text-lg'>2015</div>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
   <div class="timeContainer right">
-    <div class="content shadow-xl">
+    <div class="content shadow-xl max-sm:w-40">
       <div className='font-bold text-lg'>2021</div>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
   <div class="timeContainer left">
-    <div class="content shadow-xl">
+    <div class="content shadow-xl max-sm:w-40">
       <div className='font-bold text-lg'>2023</div>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
   </div>
   <div class="timeContainer right">
-    <div class="content shadow-xl">
+    <div class="content shadow-xl max-sm:w-40">
       <div className='font-bold text-lg'>2034</div>
       <p>Lorem ipsum dolor sit amet, quo ei simul congue exerci, ad nec admodum perfecto mnesarchum, vim ea mazim fierent detracto. Ea quis iuvaret expetendis his, te elit voluptua dignissim per, habeo iusto primis ea eam.</p>
     </div>
